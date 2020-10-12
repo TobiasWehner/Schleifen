@@ -1,0 +1,6 @@
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Schleifen\ggtEuklid\bin\Debug\ggtEuklid.exe.config
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Schleifen\ggtEuklid\bin\Debug\ggtEuklid.exe
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Schleifen\ggtEuklid\bin\Debug\ggtEuklid.pdb
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Schleifen\ggtEuklid\obj\Debug\ggtEuklid.csprojResolveAssemblyReference.cache
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Schleifen\ggtEuklid\obj\Debug\ggtEuklid.exe
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Schleifen\ggtEuklid\obj\Debug\ggtEuklid.pdb
